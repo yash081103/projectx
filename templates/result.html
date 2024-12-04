@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analysis Results</title>
+    <link rel="stylesheet" href="/static/food.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">HealthCare+</div>
+        </nav>
+    </header>
+
+    <main>
+        <section class="form-section">
+            <h1>Dietary Analysis</h1>
+            <pre>{{ analysis }}</pre> <!-- Flask injects analysis content here -->
+            <a href="/" class="button">Upload Another File</a>
+        </section>
+    </main>
+
+    <footer>
+        <p>Contact us: <a href="mailto:healthcare@example.com">healthcare@example.com</a></p>
+    </footer>
+</body>
+</html>

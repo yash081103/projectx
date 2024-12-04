@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Health Recommendation Website</title>
+    <link rel="stylesheet" href="food.css">
+</head>
+<body>
+    <!-- Navigation Bar -->
+    <header>
+        <nav>
+            <div class="logo">HealthCare+</div>
+        </nav>
+    </header>
+
+    <!-- Main Content -->
+    <main>
+        <section class="form-section">
+            <h1>Health Care Form</h1>
+            <form id="upload-form" action="/upload" method="post" enctype="multipart/form-data">
+                <div class="form-group">
+                    <label for="ingredient-image">Ingredient Image:</label>
+                    <input type="file" id="ingredient-image" name="ingredient-image" accept="image/*" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="health-data">Health Data File:</label>
+                    <input type="file" id="health-data" name="health-data" accept=".pdf,.docx,.jpeg" required>
+                </div>
+
+                <button type="submit">Submit</button>
+            </form>
+            <div id="loading-spinner" style="display: none;">Uploading...</div>
+        </section>
+    </main>
+
+    <footer>
+        <p>Contact us at: <a href="mailto:healthcare@example.com">healthcare@example.com</a></p>
+    </footer>
+
+    <script>
+        document.getElementById('upload-form').addEventListener('submit', () => {
+            document.getElementById('loading-spinner').style.display = 'block';
+        });
+    </script>
+</body>
+</html>
