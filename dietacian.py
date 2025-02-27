@@ -34,8 +34,8 @@ def expert_dietician_analysis(product_ingredients, patient_data):
 
 if __name__ == "__main__":
     # Example data
-    ingredients = ["Sugar", "Salt", "Ajwain"]
-    patient_data = {"Blood Pressure": "140/90", "Blood Sugar": "200 mg/dL"}
+    # ingredients = ["Sugar", "Salt", "Ajwain"]
+    # patient_data = {"Blood Pressure": "140/90", "Blood Sugar": "200 mg/dL"}
 
-    analysis = expert_dietician_analysis(ingredients, patient_data)
-    print(analysis)
+    # analysis = expert_dietician_analysis(ingredients, patient_data)
+    # print(analysis)
