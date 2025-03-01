@@ -1,0 +1,6 @@
+flask
+flask-cors
+google-generativeai
+google-api-core
+json5
+python-dotenv
