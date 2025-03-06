@@ -1,3 +1,4 @@
+# let's get started
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 import firebase_admin
