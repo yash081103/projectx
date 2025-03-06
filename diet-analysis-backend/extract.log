@@ -1,0 +1,375 @@
+2025-03-01 19:09:43,246 - INFO - Starting diet analysis...
+2025-03-01 19:09:49,351 - INFO - Diet analysis successful!
+2025-03-01 19:09:49,393 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-01 19:09:49,393 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-01 19:09:49,396 - INFO -  * Restarting with stat
+2025-03-01 19:09:50,620 - INFO - Starting diet analysis...
+2025-03-01 19:09:56,660 - INFO - Diet analysis successful!
+2025-03-01 19:09:56,688 - WARNING -  * Debugger is active!
+2025-03-01 19:09:56,689 - INFO -  * Debugger PIN: 856-396-801
+2025-03-01 19:12:05,505 - INFO -  * Detected change in '/home/swamyaranjan/Documents/diet-analysis-backend/dietician.py', reloading
+2025-03-01 19:12:07,742 - INFO -  * Restarting with stat
+2025-03-01 19:12:08,726 - WARNING -  * Debugger is active!
+2025-03-01 19:12:08,726 - INFO -  * Debugger PIN: 931-012-065
+2025-03-05 12:07:19,647 - INFO - Starting diet analysis...
+2025-03-05 12:07:24,426 - INFO - Diet analysis successful!
+2025-03-05 12:07:24,524 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-05 12:07:24,524 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-05 12:07:24,527 - INFO -  * Restarting with stat
+2025-03-05 12:07:25,717 - INFO - Starting diet analysis...
+2025-03-05 12:07:30,208 - INFO - Diet analysis successful!
+2025-03-05 12:07:30,241 - WARNING -  * Debugger is active!
+2025-03-05 12:07:30,242 - INFO -  * Debugger PIN: 460-920-227
+2025-03-05 15:11:36,515 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-05 15:11:36,515 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-05 15:11:36,518 - INFO -  * Restarting with stat
+2025-03-05 15:11:37,759 - WARNING -  * Debugger is active!
+2025-03-05 15:11:37,764 - INFO -  * Debugger PIN: 108-019-499
+2025-03-05 15:11:55,047 - INFO - 127.0.0.1 - - [05/Mar/2025 15:11:55] "[33mGET / HTTP/1.1[0m" 404 -
+2025-03-05 15:24:29,744 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-05 15:24:29,744 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-05 15:24:29,746 - INFO -  * Restarting with stat
+2025-03-05 15:24:31,127 - WARNING -  * Debugger is active!
+2025-03-05 15:24:31,128 - INFO -  * Debugger PIN: 143-595-204
+2025-03-05 15:32:16,195 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-05 15:32:16,195 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-05 15:32:16,200 - INFO -  * Restarting with stat
+2025-03-05 15:32:18,286 - WARNING -  * Debugger is active!
+2025-03-05 15:32:18,287 - INFO -  * Debugger PIN: 560-319-821
+2025-03-05 15:42:20,942 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-05 15:42:20,942 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-05 15:42:20,944 - INFO -  * Restarting with stat
+2025-03-05 15:42:22,761 - WARNING -  * Debugger is active!
+2025-03-05 15:42:22,762 - INFO -  * Debugger PIN: 129-158-675
+2025-03-05 15:50:40,362 - INFO -  * Detected change in '/home/swamyaranjan/Documents/diet-analysis-backend/firebase_setup.py', reloading
+2025-03-05 15:50:40,756 - INFO -  * Restarting with stat
+2025-03-05 15:50:42,203 - WARNING -  * Debugger is active!
+2025-03-05 15:50:42,204 - INFO -  * Debugger PIN: 856-165-232
+2025-03-05 16:00:48,463 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-05 16:00:48,463 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-05 16:00:48,464 - INFO -  * Restarting with stat
+2025-03-05 16:00:49,691 - WARNING -  * Debugger is active!
+2025-03-05 16:00:49,692 - INFO -  * Debugger PIN: 135-106-82025-03-06 07:24:58,636 - INFO - Received request to analyze product.
+2025-03-06 07:24:58,639 - INFO - Request details - UID: A4C9ehziqSUn7fquVmWo, File: ing_img.jpeg
+2025-03-06 07:24:58,639 - INFO - Fetching healthcare data for UID: A4C9ehziqSUn7fquVmWo
+2025-03-06 07:24:58,639 - INFO - Fetching healthcare data for UID: A4C9ehziqSUn7fquVmWo
+2025-03-06 07:24:58,718 - INFO - Healthcare data fetched for UID A4C9ehziqSUn7fquVmWo: {'uid': <google.cloud.firestore_v1.document.DocumentReference object at 0x7f6dc7116450>, 'date_of_birth': DatetimeWithNanoseconds(2003, 12, 17, 18, 30, tzinfo=datetime.timezone.utc), 'other': '', 'BP_level': '119', 'sugar_level': '80', 'gender': 'Male', 'allergy': 'no', 'height_in_cm': '170', 'weight_in_kg': '60', 'name': 'Aman Mishra'}
+2025-03-06 07:24:58,719 - INFO - Extracting ingredients from the file...
+2025-03-06 07:24:58,719 - INFO - Uploading ingredient image...
+2025-03-06 07:24:58,719 - INFO - File details: <FileStorage: 'ing_img.jpeg' ('image/jpeg')>
+2025-03-06 07:24:58,719 - INFO - File path: ingredient_file
+2025-03-06 07:24:58,719 - ERROR - Unexpected error extracting ingredients: expected str, bytes or os.PathLike object, not FileStorage
+2025-03-06 07:24:58,719 - ERROR - Failed to extract ingredients from the file.
+2025-03-06 07:24:58,720 - INFO - 127.0.0.1 - - [06/Mar/2025 07:24:58] "[31m[1mPOST /analyze HTTP/1.1[0m" 400 -
+2025-03-06 07:25:10,723 - INFO -  * Detected change in '/home/swamyaranjan/Documents/diet-analysis-backend/app.py', reloading
+2025-03-06 07:25:12,934 - INFO -  * Restarting with stat
+2025-03-06 07:25:14,197 - INFO - Starting Flask app...
+2025-03-06 07:25:14,216 - WARNING -  * Debugger is active!
+2025-03-06 07:25:14,217 - INFO -  * Debugger PIN: 480-166-022
+2025-03-06 07:43:57,936 - INFO - Starting Flask app...
+2025-03-06 07:43:57,973 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-06 07:43:57,973 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-06 07:43:57,976 - INFO -  * Restarting with stat
+2025-03-06 07:43:59,376 - INFO - Starting Flask app...
+2025-03-06 07:43:59,397 - WARNING -  * Debugger is active!
+2025-03-06 07:43:59,398 - INFO -  * Debugger PIN: 140-715-315
+2025-03-06 07:45:56,371 - INFO - Received request to analyze product.
+2025-03-06 07:45:56,374 - INFO - Request details - UID: A4C9ehziqSUn7fquVmWo, File: lays.webp
+2025-03-06 07:45:56,374 - INFO - Fetching healthcare data for UID: A4C9ehziqSUn7fquVmWo
+2025-03-06 07:45:56,374 - INFO - Fetching healthcare data for UID: A4C9ehziqSUn7fquVmWo
+2025-03-06 07:46:10,213 - INFO - Healthcare data fetched for UID A4C9ehziqSUn7fquVmWo: {'uid': <google.cloud.firestore_v1.document.DocumentReference object at 0x7916a5844dd0>, 'date_of_birth': DatetimeWithNanoseconds(2003, 12, 17, 18, 30, tzinfo=datetime.timezone.utc), 'other': '', 'BP_level': '119', 'sugar_level': '80', 'gender': 'Male', 'allergy': 'no', 'height_in_cm': '170', 'weight_in_kg': '60', 'name': 'Aman Mishra'}
+2025-03-06 07:46:10,213 - INFO - Extracting ingredients from the file...
+2025-03-06 07:46:10,215 - INFO - Uploading ingredient image...
+2025-03-06 07:46:10,216 - INFO - File details: <FileStorage: 'lays.webp' ('application/octet-stream')>
+2025-03-06 07:46:10,216 - INFO - File path: ingredient_file
+2025-03-06 07:46:10,219 - ERROR - Unexpected error extracting ingredients: expected str, bytes or os.PathLike object, not FileStorage
+2025-03-06 07:46:10,219 - ERROR - Failed to extract ingredients from the file.
+2025-03-06 07:46:10,224 - INFO - 127.0.0.1 - - [06/Mar/2025 07:46:10] "[31m[1mPOST /analyze HTTP/1.1[0m" 400 -
+2025-03-06 07:52:34,886 - INFO -  * Detected change in '/home/swamyaranjan/Documents/diet-analysis-backend/extract.py', reloading
+2025-03-06 07:52:37,105 - INFO -  * Restarting with stat
+2025-03-06 07:52:38,333 - INFO - Starting Flask app...
+2025-03-06 07:52:38,355 - WARNING -  * Debugger is active!
+2025-03-06 07:52:38,356 - INFO -  * Debugger PIN: 369-565-217
+2025-03-06 07:52:46,693 - INFO - Starting Flask app...
+2025-03-06 07:54:31,887 - INFO - Starting Flask app...
+2025-03-06 07:54:31,916 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-06 07:54:31,916 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-06 07:54:31,918 - INFO -  * Restarting with stat
+2025-03-06 07:54:33,203 - INFO - Starting Flask app...
+2025-03-06 07:54:33,221 - WARNING -  * Debugger is active!
+2025-03-06 07:54:33,222 - INFO -  * Debugger PIN: 590-243-648
+2025-03-06 07:54:41,429 - INFO - Starting Flask app...
+2025-03-06 07:56:45,888 - INFO - Starting Flask app...
+2025-03-06 07:56:45,910 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-06 07:56:45,911 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-06 07:56:45,912 - INFO -  * Restarting with stat
+2025-03-06 07:56:46,830 - INFO - Starting Flask app...
+2025-03-06 07:56:46,849 - WARNING -  * Debugger is active!
+2025-03-06 07:56:46,850 - INFO -  * Debugger PIN: 898-691-946
+2025-03-06 07:57:18,756 - INFO - Received request to analyze product.
+2025-03-06 07:57:18,757 - INFO - Request details - UID: None, File: ing_img.jpeg
+2025-03-06 07:57:18,758 - ERROR - Missing user_id or ingredient file in request.
+2025-03-06 07:57:18,759 - INFO - 127.0.0.1 - - [06/Mar/2025 07:57:18] "[31m[1mPOST /analyze HTTP/1.1[0m" 400 -
+2025-03-06 07:57:28,115 - INFO - Received request to analyze product.
+2025-03-06 07:57:28,117 - INFO - Request details - UID: A4C9ehziqSUn7fquVmWo, File: lays.webp
+2025-03-06 07:57:28,117 - INFO - Fetching healthcare data for UID: A4C9ehziqSUn7fquVmWo
+2025-03-06 07:57:28,117 - INFO - Fetching healthcare data for UID: A4C9ehziqSUn7fquVmWo
+2025-03-06 07:57:42,234 - INFO - Healthcare data fetched for UID A4C9ehziqSUn7fquVmWo: {'uid': <google.cloud.firestore_v1.document.DocumentReference object at 0x79a2f2a89160>, 'date_of_birth': DatetimeWithNanoseconds(2003, 12, 17, 18, 30, tzinfo=datetime.timezone.utc), 'other': '', 'BP_level': '119', 'sugar_level': '80', 'gender': 'Male', 'allergy': 'no', 'height_in_cm': '170', 'weight_in_kg': '60', 'name': 'Aman Mishra'}
+2025-03-06 07:57:42,234 - INFO - Extracting ingredients from the file...
+2025-03-06 07:57:42,235 - INFO - Uploading ingredient image...
+2025-03-06 07:57:42,235 - INFO - File saved at: /tmp/lays.webp
+2025-03-06 07:58:13,886 - INFO - File uploaded successfully: genai.File({
+    'name': 'files/1duqrbj1tm1s',
+    'display_name': 'lays.webp',
+    'mime_type': 'image/webp',
+    'sha256_hash': 'ZjhjMjIzMWJjMjNhNzNjZTkzMzc3NDQwZTZiNjUwZWQ1ZDEzMWM5YTdmYTk4Nzc1N2Y4NzAwNzg1MDcyM2U5ZA==',
+    'size_bytes': '64168',
+    'state': 'ACTIVE',
+    'uri': 'https://generativelanguage.googleapis.com/v1beta/files/1duqrbj1tm1s',
+    'create_time': '2025-03-06T02:28:10.597823Z',
+    'expiration_time': '2025-03-08T02:28:10.587529230Z',
+    'update_time': '2025-03-06T02:28:10.597823Z'})
+2025-03-06 07:58:13,886 - INFO - AI model initialized successfully.
+2025-03-06 07:58:13,886 - INFO - Sending prompt to AI model: Extract ingredients as a list. Ensure the output is a comma-separated list of ingredients.
+2025-03-06 07:58:17,479 - INFO - Raw Ingredients Data: Potato, Edible Vegetable Oil (Palmolein Oil, Rice Bran Oil), Onion Powder, Chilli Powder, Dried Mango Powder, Coriander Seed Powder, Ginger Powder, Garlic Powder, Black Pepper Powder, Spices Extract, Turmeric Powder, Iodised Salt, Black Salt, Sugar, Tomato Powder, Citric Acid (330)
+2025-03-06 07:58:17,479 - INFO - Processed Ingredients: ['Potato', 'Edible Vegetable Oil (Palmolein Oil', 'Rice Bran Oil)', 'Onion Powder', 'Chilli Powder', 'Dried Mango Powder', 'Coriander Seed Powder', 'Ginger Powder', 'Garlic Powder', 'Black Pepper Powder', 'Spices Extract', 'Turmeric Powder', 'Iodised Salt', 'Black Salt', 'Sugar', 'Tomato Powder', 'Citric Acid (330)']
+2025-03-06 07:58:17,479 - INFO - Ingredients extracted: ['Potato', 'Edible Vegetable Oil (Palmolein Oil', 'Rice Bran Oil)', 'Onion Powder', 'Chilli Powder', 'Dried Mango Powder', 'Coriander Seed Powder', 'Ginger Powder', 'Garlic Powder', 'Black Pepper Powder', 'Spices Extract', 'Turmeric Powder', 'Iodised Salt', 'Black Salt', 'Sugar', 'Tomato Powder', 'Citric Acid (330)']
+2025-03-06 07:58:17,479 - INFO - Performing AI analysis...
+2025-03-06 07:58:17,479 - INFO - Analysis completed for UID A4C9ehziqSUn7fquVmWo.
+2025-03-06 07:58:17,479 - INFO - Returning analysis result to the client.
+2025-03-06 07:58:17,481 - INFO - 127.0.0.1 - - [06/Mar/2025 07:58:17] "POST /analyze HTTP/1.1" 200 -
+2025-03-06 07:59:48,213 - INFO -  * Detected change in '/home/swamyaranjan/Documents/diet-analysis-backend/dietician.py', reloading
+2025-03-06 07:59:50,418 - INFO -  * Restarting with stat
+2025-03-06 07:59:51,640 - INFO - Starting Flask app...
+2025-03-06 07:59:51,663 - WARNING -  * Debugger is active!
+2025-03-06 07:59:51,664 - INFO -  * Debugger PIN: 554-142-425
+2025-03-06 08:06:36,786 - INFO - Starting Flask app...
+2025-03-06 08:06:36,809 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-06 08:06:36,811 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-06 08:06:36,812 - INFO -  * Restarting with stat
+2025-03-06 08:06:38,761 - INFO - Starting Flask app...
+2025-03-06 08:06:38,784 - WARNING -  * Debugger is active!
+2025-03-06 08:06:38,786 - INFO -  * Debugger PIN: 564-457-206
+2025-03-06 08:07:02,504 - INFO - Received request to analyze product.
+2025-03-06 08:07:02,508 - INFO - Request details - UID: A4C9ehziqSUn7fquVmWo, File: lays.webp
+2025-03-06 08:07:02,508 - INFO - Fetching healthcare data for UID: A4C9ehziqSUn7fquVmWo
+2025-03-06 08:07:02,508 - INFO - Fetching healthcare data for UID: A4C9ehziqSUn7fquVmWo
+2025-03-06 08:07:20,082 - INFO - Healthcare data fetched for UID A4C9ehziqSUn7fquVmWo: {'uid': <google.cloud.firestore_v1.document.DocumentReference object at 0x797a1eb52810>, 'date_of_birth': DatetimeWithNanoseconds(2003, 12, 17, 18, 30, tzinfo=datetime.timezone.utc), 'other': '', 'BP_level': '119', 'sugar_level': '80', 'gender': 'Male', 'allergy': 'no', 'height_in_cm': '170', 'weight_in_kg': '60', 'name': 'Aman Mishra'}
+2025-03-06 08:07:20,083 - INFO - Extracting ingredients from the file...
+2025-03-06 08:07:20,084 - INFO - Uploading ingredient image...
+2025-03-06 08:07:20,085 - INFO - File saved at: /tmp/lays.webp
+2025-03-06 08:07:51,826 - INFO - File uploaded successfully: genai.File({
+    'name': 'files/ezk9hc8hnuyf',
+    'display_name': 'lays.webp',
+    'mime_type': 'image/webp',
+    'sha256_hash': 'ZjhjMjIzMWJjMjNhNzNjZTkzMzc3NDQwZTZiNjUwZWQ1ZDEzMWM5YTdmYTk4Nzc1N2Y4NzAwNzg1MDcyM2U5ZA==',
+    'size_bytes': '64168',
+    'state': 'ACTIVE',
+    'uri': 'https://generativelanguage.googleapis.com/v1beta/files/ezk9hc8hnuyf',
+    'create_time': '2025-03-06T02:37:48.744014Z',
+    'expiration_time': '2025-03-08T02:37:48.740429038Z',
+    'update_time': '2025-03-06T02:37:48.744014Z'})
+2025-03-06 08:07:51,826 - INFO - AI model initialized successfully.
+2025-03-06 08:07:51,826 - INFO - Sending prompt to AI model: Extract ingredients as a list. Ensure the output is a comma-separated list of ingredients.
+2025-03-06 08:07:55,205 - INFO - Raw Ingredients Data: Potato, Edible Vegetable Oil (Palmolein Oil, Rice Bran Oil), Onion Powder, Chilli Powder, Dried Mango Powder, Coriander Seed Powder, Ginger Powder, Garlic Powder, Black Pepper Powder, Spices Extract, Turmeric Powder, Iodised Salt, Black Salt, Sugar, Tomato Powder, Citric Acid (330)
+2025-03-06 08:07:55,206 - INFO - Processed Ingredients: ['Potato', 'Edible Vegetable Oil (Palmolein Oil', 'Rice Bran Oil)', 'Onion Powder', 'Chilli Powder', 'Dried Mango Powder', 'Coriander Seed Powder', 'Ginger Powder', 'Garlic Powder', 'Black Pepper Powder', 'Spices Extract', 'Turmeric Powder', 'Iodised Salt', 'Black Salt', 'Sugar', 'Tomato Powder', 'Citric Acid (330)']
+2025-03-06 08:07:55,207 - INFO - Ingredients extracted: ['Potato', 'Edible Vegetable Oil (Palmolein Oil', 'Rice Bran Oil)', 'Onion Powder', 'Chilli Powder', 'Dried Mango Powder', 'Coriander Seed Powder', 'Ginger Powder', 'Garlic Powder', 'Black Pepper Powder', 'Spices Extract', 'Turmeric Powder', 'Iodised Salt', 'Black Salt', 'Sugar', 'Tomato Powder', 'Citric Acid (330)']
+2025-03-06 08:07:55,208 - INFO - Performing AI analysis...
+2025-03-06 08:07:55,208 - INFO - Analysis completed for UID A4C9ehziqSUn7fquVmWo.
+2025-03-06 08:07:55,208 - INFO - Returning analysis result to the client.
+2025-03-06 08:07:55,210 - INFO - 127.0.0.1 - - [06/Mar/2025 08:07:55] "POST /analyze HTTP/1.1" 200 -
+2025-03-06 08:17:04,628 - INFO - Starting Flask app...
+2025-03-06 08:17:04,650 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-06 08:17:04,650 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-06 08:17:04,652 - INFO -  * Restarting with stat
+2025-03-06 08:17:05,754 - INFO - Starting Flask app...
+2025-03-06 08:17:05,774 - WARNING -  * Debugger is active!
+2025-03-06 08:17:05,775 - INFO -  * Debugger PIN: 146-046-239
+2025-03-06 08:17:22,658 - INFO - Received request to analyze product.
+2025-03-06 08:17:22,662 - INFO - Request details - UID: A4C9ehziqSUn7fquVmWo, File: lays.webp
+2025-03-06 08:17:22,662 - INFO - Fetching healthcare data for UID: A4C9ehziqSUn7fquVmWo
+2025-03-06 08:17:22,662 - INFO - Fetching healthcare data for UID: A4C9ehziqSUn7fquVmWo
+2025-03-06 08:17:36,122 - INFO - Healthcare data fetched for UID A4C9ehziqSUn7fquVmWo: {'uid': 'L5MRg2ZKgFeJ9S7VJnPcc8VYtv43', 'date_of_birth': DatetimeWithNanoseconds(2003, 12, 17, 18, 30, tzinfo=datetime.timezone.utc), 'other': '', 'BP_level': '119', 'sugar_level': '80', 'gender': 'Male', 'allergy': 'no', 'height_in_cm': '170', 'weight_in_kg': '60', 'name': 'Aman Mishra'}
+2025-03-06 08:17:36,123 - INFO - Extracting ingredients from the file...
+2025-03-06 08:17:36,123 - INFO - Uploading ingredient image...
+2025-03-06 08:17:36,123 - INFO - File saved at: /tmp/lays.webp
+2025-03-06 08:18:06,637 - INFO - File uploaded successfully: genai.File({
+    'name': 'files/g4uwrk2pxw8u',
+    'display_name': 'lays.webp',
+    'mime_type': 'image/webp',
+    'sha256_hash': 'ZjhjMjIzMWJjMjNhNzNjZTkzMzc3NDQwZTZiNjUwZWQ1ZDEzMWM5YTdmYTk4Nzc1N2Y4NzAwNzg1MDcyM2U5ZA==',
+    'size_bytes': '64168',
+    'state': 'ACTIVE',
+    'uri': 'https://generativelanguage.googleapis.com/v1beta/files/g4uwrk2pxw8u',
+    'create_time': '2025-03-06T02:48:03.845517Z',
+    'expiration_time': '2025-03-08T02:48:03.833862450Z',
+    'update_time': '2025-03-06T02:48:03.845517Z'})
+2025-03-06 08:18:06,637 - INFO - AI model initialized successfully.
+2025-03-06 08:18:06,637 - INFO - Sending prompt to AI model: Extract ingredients as a list. Ensure the output is a comma-separated list of ingredients.
+2025-03-06 08:18:08,480 - INFO - Raw Ingredients Data: Potato, Edible Vegetable Oil (Palmolein Oil, Rice Bran Oil), Onion Powder, Chilli Powder, Dried Mango Powder, Coriander Seed Powder, Ginger Powder, Garlic Powder, Black Pepper Powder, Spices Extract, Turmeric Powder, Iodised Salt, Black Salt, Sugar, Tomato Powder, Citric Acid (330)
+2025-03-06 08:18:08,480 - INFO - Processed Ingredients: ['Potato', 'Edible Vegetable Oil (Palmolein Oil', 'Rice Bran Oil)', 'Onion Powder', 'Chilli Powder', 'Dried Mango Powder', 'Coriander Seed Powder', 'Ginger Powder', 'Garlic Powder', 'Black Pepper Powder', 'Spices Extract', 'Turmeric Powder', 'Iodised Salt', 'Black Salt', 'Sugar', 'Tomato Powder', 'Citric Acid (330)']
+2025-03-06 08:18:08,481 - INFO - Deleted temp file: /tmp/lays.webp
+2025-03-06 08:18:08,481 - INFO - Ingredients extracted: ['Potato', 'Edible Vegetable Oil (Palmolein Oil', 'Rice Bran Oil)', 'Onion Powder', 'Chilli Powder', 'Dried Mango Powder', 'Coriander Seed Powder', 'Ginger Powder', 'Garlic Powder', 'Black Pepper Powder', 'Spices Extract', 'Turmeric Powder', 'Iodised Salt', 'Black Salt', 'Sugar', 'Tomato Powder', 'Citric Acid (330)']
+2025-03-06 08:18:08,481 - INFO - Performing AI analysis...
+2025-03-06 08:18:08,482 - INFO - Analysis completed for UID A4C9ehziqSUn7fquVmWo.
+2025-03-06 08:18:08,482 - INFO - Returning analysis result to the client.
+2025-03-06 08:18:08,485 - INFO - 127.0.0.1 - - [06/Mar/2025 08:18:08] "POST /analyze HTTP/1.1" 200 -
+2025-03-06 08:19:42,262 - INFO -  * Detected change in '/home/swamyaranjan/Documents/diet-analysis-backend/dietician.py', reloading
+2025-03-06 08:19:44,514 - INFO -  * Restarting with stat
+2025-03-06 08:19:45,790 - INFO - Starting Flask app...
+2025-03-06 08:19:45,814 - WARNING -  * Debugger is active!
+2025-03-06 08:19:45,815 - INFO -  * Debugger PIN: 596-175-259
+2025-03-06 08:19:59,500 - INFO - Received request to analyze product.
+2025-03-06 08:19:59,503 - INFO - Request details - UID: A4C9ehziqSUn7fquVmWo, File: lays.webp
+2025-03-06 08:19:59,504 - INFO - Fetching healthcare data for UID: A4C9ehziqSUn7fquVmWo
+2025-03-06 08:19:59,504 - INFO - Fetching healthcare data for UID: A4C9ehziqSUn7fquVmWo
+2025-03-06 08:20:12,969 - INFO - Healthcare data fetched for UID A4C9ehziqSUn7fquVmWo: {'uid': 'L5MRg2ZKgFeJ9S7VJnPcc8VYtv43', 'date_of_birth': DatetimeWithNanoseconds(2003, 12, 17, 18, 30, tzinfo=datetime.timezone.utc), 'other': '', 'BP_level': '119', 'sugar_level': '80', 'gender': 'Male', 'allergy': 'no', 'height_in_cm': '170', 'weight_in_kg': '60', 'name': 'Aman Mishra'}
+2025-03-06 08:20:12,970 - INFO - Extracting ingredients from the file...
+2025-03-06 08:20:12,971 - INFO - Uploading ingredient image...
+2025-03-06 08:20:12,971 - INFO - File saved at: /tmp/lays.webp
+2025-03-06 08:20:44,129 - INFO - File uploaded successfully: genai.File({
+    'name': 'files/ouspfuu8setw',
+    'display_name': 'lays.webp',
+    'mime_type': 'image/webp',
+    'sha256_hash': 'ZjhjMjIzMWJjMjNhNzNjZTkzMzc3NDQwZTZiNjUwZWQ1ZDEzMWM5YTdmYTk4Nzc1N2Y4NzAwNzg1MDcyM2U5ZA==',
+    'size_bytes': '64168',
+    'state': 'ACTIVE',
+    'uri': 'https://generativelanguage.googleapis.com/v1beta/files/ouspfuu8setw',
+    'create_time': '2025-03-06T02:50:41.088817Z',
+    'expiration_time': '2025-03-08T02:50:41.084984121Z',
+    'update_time': '2025-03-06T02:50:41.088817Z'})
+2025-03-06 08:20:44,129 - INFO - AI model initialized successfully.
+2025-03-06 08:20:44,129 - INFO - Sending prompt to AI model: Extract ingredients as a list. Ensure the output is a comma-separated list of ingredients.
+2025-03-06 08:20:47,303 - INFO - Raw Ingredients Data: Potato, Edible Vegetable Oil (Palmolein Oil, Rice Bran Oil), Onion Powder, Chilli Powder, Dried Mango Powder, Coriander Seed Powder, Ginger Powder, Garlic Powder, Black Pepper Powder, Spices Extract, Turmeric Powder, Iodised Salt, Black Salt, Sugar, Tomato Powder, Citric Acid (330)
+2025-03-06 08:20:47,304 - INFO - Processed Ingredients: ['Potato', 'Edible Vegetable Oil (Palmolein Oil', 'Rice Bran Oil)', 'Onion Powder', 'Chilli Powder', 'Dried Mango Powder', 'Coriander Seed Powder', 'Ginger Powder', 'Garlic Powder', 'Black Pepper Powder', 'Spices Extract', 'Turmeric Powder', 'Iodised Salt', 'Black Salt', 'Sugar', 'Tomato Powder', 'Citric Acid (330)']
+2025-03-06 08:20:47,304 - INFO - Deleted temp file: /tmp/lays.webp
+2025-03-06 08:20:47,305 - INFO - Ingredients extracted: ['Potato', 'Edible Vegetable Oil (Palmolein Oil', 'Rice Bran Oil)', 'Onion Powder', 'Chilli Powder', 'Dried Mango Powder', 'Coriander Seed Powder', 'Ginger Powder', 'Garlic Powder', 'Black Pepper Powder', 'Spices Extract', 'Turmeric Powder', 'Iodised Salt', 'Black Salt', 'Sugar', 'Tomato Powder', 'Citric Acid (330)']
+2025-03-06 08:20:47,305 - INFO - Performing AI analysis...
+2025-03-06 08:20:47,305 - INFO - Analysis completed for UID A4C9ehziqSUn7fquVmWo.
+2025-03-06 08:20:47,305 - INFO - Returning analysis result to the client.
+2025-03-06 08:20:47,308 - INFO - 127.0.0.1 - - [06/Mar/2025 08:20:47] "POST /analyze HTTP/1.1" 200 -
+2025-03-06 08:27:09,394 - INFO -  * Detected change in '/home/swamyaranjan/Documents/diet-analysis-backend/dietician.py', reloading
+2025-03-06 08:27:11,642 - INFO -  * Restarting with stat
+2025-03-06 08:27:13,717 - INFO - Starting Flask app...
+2025-03-06 08:27:13,742 - WARNING -  * Debugger is active!
+2025-03-06 08:27:13,744 - INFO -  * Debugger PIN: 697-970-958
+2025-03-06 08:27:30,731 - INFO -  * Detected change in '/home/swamyaranjan/Documents/diet-analysis-backend/dietician.py', reloading
+2025-03-06 08:27:30,954 - INFO -  * Restarting with stat
+2025-03-06 08:27:32,051 - INFO - Starting Flask app...
+2025-03-06 08:27:32,073 - WARNING -  * Debugger is active!
+2025-03-06 08:27:32,074 - INFO -  * Debugger PIN: 134-532-258
+2025-03-06 08:27:46,380 - INFO - Received request to analyze product.
+2025-03-06 08:27:46,385 - INFO - Request details - UID: A4C9ehziqSUn7fquVmWo, File: lays.webp
+2025-03-06 08:27:46,385 - INFO - Fetching healthcare data for UID: A4C9ehziqSUn7fquVmWo
+2025-03-06 08:27:46,386 - INFO - Fetching healthcare data for UID: A4C9ehziqSUn7fquVmWo
+2025-03-06 08:28:00,665 - INFO - Healthcare data fetched for UID A4C9ehziqSUn7fquVmWo: {'uid': 'L5MRg2ZKgFeJ9S7VJnPcc8VYtv43', 'date_of_birth': DatetimeWithNanoseconds(2003, 12, 17, 18, 30, tzinfo=datetime.timezone.utc), 'other': '', 'BP_level': '119', 'sugar_level': '80', 'gender': 'Male', 'allergy': 'no', 'height_in_cm': '170', 'weight_in_kg': '60', 'name': 'Aman Mishra'}
+2025-03-06 08:28:00,665 - INFO - Extracting ingredients from the file...
+2025-03-06 08:28:00,665 - INFO - Uploading ingredient image...
+2025-03-06 08:28:00,666 - INFO - File saved at: /tmp/lays.webp
+2025-03-06 08:28:32,308 - INFO - File uploaded successfully: genai.File({
+    'name': 'files/6x3na1bj9cnd',
+    'display_name': 'lays.webp',
+    'mime_type': 'image/webp',
+    'sha256_hash': 'ZjhjMjIzMWJjMjNhNzNjZTkzMzc3NDQwZTZiNjUwZWQ1ZDEzMWM5YTdmYTk4Nzc1N2Y4NzAwNzg1MDcyM2U5ZA==',
+    'size_bytes': '64168',
+    'state': 'ACTIVE',
+    'uri': 'https://generativelanguage.googleapis.com/v1beta/files/6x3na1bj9cnd',
+    'create_time': '2025-03-06T02:58:29.717316Z',
+    'expiration_time': '2025-03-08T02:58:29.713598120Z',
+    'update_time': '2025-03-06T02:58:29.717316Z'})
+2025-03-06 08:28:32,308 - INFO - AI model initialized successfully.
+2025-03-06 08:28:32,308 - INFO - Sending prompt to AI model: Extract ingredients as a list. Ensure the output is a comma-separated list of ingredients.
+2025-03-06 08:28:35,388 - INFO - Raw Ingredients Data: Potato, Edible Vegetable Oil (Palmolein Oil, Rice Bran Oil), Onion Powder, Chilli Powder, Dried Mango Powder, Coriander Seed Powder, Ginger Powder, Garlic Powder, Black Pepper Powder, Spices Extract, Turmeric Powder, Iodised Salt, Black Salt, Sugar, Tomato Powder, Citric Acid (330)
+2025-03-06 08:28:35,388 - INFO - Processed Ingredients: ['Potato', 'Edible Vegetable Oil (Palmolein Oil', 'Rice Bran Oil)', 'Onion Powder', 'Chilli Powder', 'Dried Mango Powder', 'Coriander Seed Powder', 'Ginger Powder', 'Garlic Powder', 'Black Pepper Powder', 'Spices Extract', 'Turmeric Powder', 'Iodised Salt', 'Black Salt', 'Sugar', 'Tomato Powder', 'Citric Acid (330)']
+2025-03-06 08:28:35,388 - INFO - Deleted temp file: /tmp/lays.webp
+2025-03-06 08:28:35,388 - INFO - Ingredients extracted: ['Potato', 'Edible Vegetable Oil (Palmolein Oil', 'Rice Bran Oil)', 'Onion Powder', 'Chilli Powder', 'Dried Mango Powder', 'Coriander Seed Powder', 'Ginger Powder', 'Garlic Powder', 'Black Pepper Powder', 'Spices Extract', 'Turmeric Powder', 'Iodised Salt', 'Black Salt', 'Sugar', 'Tomato Powder', 'Citric Acid (330)']
+2025-03-06 08:28:35,388 - INFO - Performing AI analysis...
+2025-03-06 08:28:35,388 - INFO - Analysis completed for UID A4C9ehziqSUn7fquVmWo.
+2025-03-06 08:28:35,389 - INFO - Returning analysis result to the client.
+2025-03-06 08:28:35,390 - INFO - 127.0.0.1 - - [06/Mar/2025 08:28:35] "POST /analyze HTTP/1.1" 200 -
+2025-03-06 08:35:43,392 - INFO - Received request to analyze product.
+2025-03-06 08:35:43,396 - INFO - Request details - UID: A4C9ehziqSUn7fquVmWo, File: lays.webp
+2025-03-06 08:35:43,396 - INFO - Fetching healthcare data for UID: A4C9ehziqSUn7fquVmWo
+2025-03-06 08:35:43,397 - INFO - Fetching healthcare data for UID: A4C9ehziqSUn7fquVmWo
+2025-03-06 08:35:44,539 - INFO - Healthcare data fetched for UID A4C9ehziqSUn7fquVmWo: {'uid': 'L5MRg2ZKgFeJ9S7VJnPcc8VYtv43', 'other': '', 'BP_level': '119', 'sugar_level': '80', 'gender': 'Male', 'allergy': 'no', 'height_in_cm': '170', 'weight_in_kg': '60', 'name': 'Aman Mishra'}
+2025-03-06 08:35:44,539 - INFO - Extracting ingredients from the file...
+2025-03-06 08:35:44,539 - INFO - Uploading ingredient image...
+2025-03-06 08:35:44,540 - INFO - File saved at: /tmp/lays.webp
+2025-03-06 08:36:25,106 - INFO - File uploaded successfully: genai.File({
+    'name': 'files/gu1mkot4wjor',
+    'display_name': 'lays.webp',
+    'mime_type': 'image/webp',
+    'sha256_hash': 'ZjhjMjIzMWJjMjNhNzNjZTkzMzc3NDQwZTZiNjUwZWQ1ZDEzMWM5YTdmYTk4Nzc1N2Y4NzAwNzg1MDcyM2U5ZA==',
+    'size_bytes': '64168',
+    'state': 'ACTIVE',
+    'uri': 'https://generativelanguage.googleapis.com/v1beta/files/gu1mkot4wjor',
+    'create_time': '2025-03-06T03:06:22.372501Z',
+    'expiration_time': '2025-03-08T03:06:22.357865641Z',
+    'update_time': '2025-03-06T03:06:22.372501Z'})
+2025-03-06 08:36:25,106 - INFO - AI model initialized successfully.
+2025-03-06 08:36:25,106 - INFO - Sending prompt to AI model: Extract ingredients as a list. Ensure the output is a comma-separated list of ingredients.
+2025-03-06 08:36:28,267 - INFO - Raw Ingredients Data: Potato, Edible Vegetable Oil (Palmolein Oil, Rice Bran Oil), Onion Powder, Chilli Powder, Dried Mango Powder, Coriander Seed Powder, Ginger Powder, Garlic Powder, Black Pepper Powder, Spices Extract, Turmeric Powder, Iodised Salt, Black Salt, Sugar, Tomato Powder, Citric Acid (330)
+2025-03-06 08:36:28,267 - INFO - Processed Ingredients: ['Potato', 'Edible Vegetable Oil (Palmolein Oil', 'Rice Bran Oil)', 'Onion Powder', 'Chilli Powder', 'Dried Mango Powder', 'Coriander Seed Powder', 'Ginger Powder', 'Garlic Powder', 'Black Pepper Powder', 'Spices Extract', 'Turmeric Powder', 'Iodised Salt', 'Black Salt', 'Sugar', 'Tomato Powder', 'Citric Acid (330)']
+2025-03-06 08:36:28,267 - INFO - Deleted temp file: /tmp/lays.webp
+2025-03-06 08:36:28,268 - INFO - Ingredients extracted: ['Potato', 'Edible Vegetable Oil (Palmolein Oil', 'Rice Bran Oil)', 'Onion Powder', 'Chilli Powder', 'Dried Mango Powder', 'Coriander Seed Powder', 'Ginger Powder', 'Garlic Powder', 'Black Pepper Powder', 'Spices Extract', 'Turmeric Powder', 'Iodised Salt', 'Black Salt', 'Sugar', 'Tomato Powder', 'Citric Acid (330)']
+2025-03-06 08:36:28,268 - INFO - Performing AI analysis...
+2025-03-06 08:36:34,308 - INFO - Analysis completed for UID A4C9ehziqSUn7fquVmWo.
+2025-03-06 08:36:34,308 - INFO - Returning analysis result to the client.
+2025-03-06 08:36:34,309 - INFO - 127.0.0.1 - - [06/Mar/2025 08:36:34] "POST /analyze HTTP/1.1" 200 -
+2025-03-06 12:41:49,822 - INFO - Starting Flask app...
+2025-03-06 12:41:49,888 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-06 12:41:49,888 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-06 12:41:49,891 - INFO -  * Restarting with stat
+2025-03-06 12:41:51,503 - INFO - Starting Flask app...
+2025-03-06 12:41:51,523 - WARNING -  * Debugger is active!
+2025-03-06 12:41:51,528 - INFO -  * Debugger PIN: 111-721-772
+2025-03-06 12:50:37,445 - INFO - Starting Flask app...
+2025-03-06 12:50:37,474 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-06 12:50:37,474 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-06 12:50:37,476 - INFO -  * Restarting with stat
+2025-03-06 12:50:39,003 - INFO - Starting Flask app...
+2025-03-06 12:50:39,030 - WARNING -  * Debugger is active!
+2025-03-06 12:50:39,031 - INFO -  * Debugger PIN: 826-462-242
+2025-03-06 12:51:10,926 - INFO - Received request to analyze product.
+2025-03-06 12:51:10,931 - INFO - Request details - UID: A4C9ehziqSUn7fquVmWo, File: lays.webp
+2025-03-06 12:51:10,931 - INFO - Fetching healthcare data for UID: A4C9ehziqSUn7fquVmWo
+2025-03-06 12:51:10,931 - INFO - Fetching healthcare data for UID: A4C9ehziqSUn7fquVmWo
+2025-03-06 12:51:11,777 - INFO - Healthcare data fetched for UID A4C9ehziqSUn7fquVmWo: {'uid': 'L5MRg2ZKgFeJ9S7VJnPcc8VYtv43', 'other': '', 'BP_level': '119', 'sugar_level': '80', 'Age': 21, 'gender': 'Male', 'allergy': 'no', 'height_in_cm': '170', 'weight_in_kg': '60', 'name': 'Aman Mishra'}
+2025-03-06 12:51:11,777 - INFO - Extracting ingredients from the file...
+2025-03-06 12:51:11,778 - INFO - Uploading ingredient image...
+2025-03-06 12:51:11,778 - INFO - File saved at: /tmp/lays.webp
+2025-03-06 12:51:15,993 - INFO - File uploaded successfully: genai.File({
+    'name': 'files/7rh29m1oyx5d',
+    'display_name': 'lays.webp',
+    'mime_type': 'image/webp',
+    'sha256_hash': 'YTg0N2Y1MmZlYzYyMzNkNDUyZWE1NjVhNWZhM2MyMzAwM2E0YzBiMTJlYjI0Nzc4MjA0YzhiMmVkMDMxOWRhOA==',
+    'size_bytes': '30156',
+    'state': 'ACTIVE',
+    'uri': 'https://generativelanguage.googleapis.com/v1beta/files/7rh29m1oyx5d',
+    'create_time': '2025-03-06T07:21:14.749705Z',
+    'expiration_time': '2025-03-08T07:21:14.735498298Z',
+    'update_time': '2025-03-06T07:21:14.749705Z'})
+2025-03-06 12:51:15,993 - INFO - AI model initialized successfully.
+2025-03-06 12:51:15,993 - INFO - Sending prompt to AI model: Extract ingredients as a list. Ensure the output is a comma-separated list of ingredients.
+2025-03-06 12:51:17,935 - INFO - Raw Ingredients Data: Potato, Edible Vegetable Oil (Palmolein Oil, Rice Bran Oil), Sugar, lodised Salt, Milk Solids, Spices, Condiments, Maltodexin, Flavour (Natural & Nature Identical Flavouring Substances), Cheese Powder, Hydrolysed Vegetable Protein, Flavour Enhancers (627, 631), Edible Vegetable Oil (Palm, Coconut), Anticaking Agent (551), Onion
+2025-03-06 12:51:17,936 - INFO - Processed Ingredients: ['Potato', 'Edible Vegetable Oil (Palmolein Oil', 'Rice Bran Oil)', 'Sugar', 'lodised Salt', 'Milk Solids', 'Spices', 'Condiments', 'Maltodexin', 'Flavour (Natural & Nature Identical Flavouring Substances)', 'Cheese Powder', 'Hydrolysed Vegetable Protein', 'Flavour Enhancers (627', '631)', 'Edible Vegetable Oil (Palm', 'Coconut)', 'Anticaking Agent (551)', 'Onion']
+2025-03-06 12:51:17,936 - INFO - Deleted temp file: /tmp/lays.webp
+2025-03-06 12:51:17,936 - INFO - Ingredients extracted: ['Potato', 'Edible Vegetable Oil (Palmolein Oil', 'Rice Bran Oil)', 'Sugar', 'lodised Salt', 'Milk Solids', 'Spices', 'Condiments', 'Maltodexin', 'Flavour (Natural & Nature Identical Flavouring Substances)', 'Cheese Powder', 'Hydrolysed Vegetable Protein', 'Flavour Enhancers (627', '631)', 'Edible Vegetable Oil (Palm', 'Coconut)', 'Anticaking Agent (551)', 'Onion']
+2025-03-06 12:51:17,936 - INFO - Performing AI analysis...
+2025-03-06 12:51:23,571 - INFO - Analysis completed for UID A4C9ehziqSUn7fquVmWo.
+2025-03-06 12:51:23,572 - INFO - Returning analysis result to the client.
+2025-03-06 12:51:23,576 - INFO - 127.0.0.1 - - [06/Mar/2025 12:51:23] "POST /analyze HTTP/1.1" 200 -
